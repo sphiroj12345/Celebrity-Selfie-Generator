@@ -1,0 +1,5 @@
+{
+  "name": "Celebrity Selfie Generator",
+  "description": "Upload your photo and generate a realistic selfie with up to two famous personalities from history and today. The app intelligently blends images and applies era-appropriate styling for a fun, unique result.",
+  "requestFramePermissions": []
+}
